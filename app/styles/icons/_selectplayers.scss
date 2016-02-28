@@ -1,0 +1,139 @@
+.select-players-wrapper {
+  background-image: url('../icons/rankytank.jpg');
+}
+
+.h3FrontPage {
+  text-align: center;
+  margin-top: 0;
+  color: white;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.h1FrontPage {
+  color: white;
+  margin-bottom: 5px;
+  margin-left: 10px;
+}
+
+.trFrontPage {
+  color: white;
+  font-size: large;
+}
+
+.keeperAttacker {
+  color: white;
+  display: inline-block;
+  margin-right: 100px;
+}
+
+.keeperAttackerMargin {
+  margin-right: 150px;
+}
+
+.borderRightStyle {
+  border-right-style: solid;
+  border-right-color: white;
+}
+
+.clear {
+  clear: both;
+}
+
+.floatLeft {
+  float: left;
+  margin-left: 10px;
+  margin-top: 20px
+}
+
+.floatRight {
+  float: right;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.inlineBlock {
+  display: inline-block;
+}
+
+.btnFrontPage {
+  height: 100px;
+  width: 300px;
+  background-color: orange;
+  color: white;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.roundButton {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: 1px solid #000;
+}
+
+.middlePagebuttons {
+  width: 100px;
+  background-color: orange;
+  color: white;
+  height: 50px;
+  margin-bottom: 5px;
+  padding: 0;
+}
+
+.teammiddleDiv {
+  width: 27%;
+  text-align: center;
+  height: 360px;
+  padding: 0px;
+}
+
+.middleDiv {
+  margin-top: 50px;
+}
+
+.teamDiv {
+  width: 35%;
+  height: 490px;
+}
+
+.marginBottom20 {
+  margin-bottom: 20px;
+}
+
+.select-players-text-align {
+  text-align: center;
+}
+
+.header-shadow {
+  background-image: url('../icons/rankytank.jpg');
+  width: 1000px;
+  height: 1000px;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (max-width: 768px) {
+  .roundButton {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid #000;
+
+  }
+
+  .keeperAttackerMargin {
+    margin-right: 10px;
+  }
+
+  .btnFrontPage {
+    height: 100px;
+    width: 200px;
+    background-color: orange;
+    color: white;
+    font-size: 30px;
+  }
+}

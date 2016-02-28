@@ -1,0 +1,49 @@
+.playerBox {
+    text-align: center;
+    border: solid orange;
+    border-radius: 10px;
+    display: inline-block;
+    background-color: white;
+}
+
+.imgInfo {
+    border-bottom: solid black 1px;
+    text-align: center;
+    margin: 10px;
+}
+
+.stats {
+    text-align: left;
+    margin-left: 5px;
+}
+
+.fontSmall {
+    font-size: x-small;
+}
+
+.bottom {
+    width: 100%;
+    text-align: center
+}
+
+.inputSearchfield {
+    width: 80%;
+    height: 50px;
+    font-size: 25px;
+    font-style: normal;
+    padding-left: 10px;
+}
+
+.top {
+    margin-left: 5%;
+    margin-bottom: 5%
+}
+
+@media (max-width: 768px) {
+    .bottom {
+        width: 100%;
+        text-align: left;
+        margin-left: 10px;
+    }
+
+}

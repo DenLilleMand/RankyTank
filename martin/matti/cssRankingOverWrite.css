@@ -1,0 +1,43 @@
+.rankingTh{
+  width: 20%;
+    text-align: center;
+    color:white;
+}
+.floatLeft{
+    float: left;
+}
+.floatRight{
+    float:right;
+}
+.clear{
+    clear:both;
+}
+.buttonWrapper{
+    margin-bottom: 40px;
+}
+table{
+    margin: 0 auto;
+    width: 100%;
+}
+.activeRankings{
+    background-color: orange;
+}
+.activeRankings:hover{
+    background-color: orange;
+}
+.textAlignCenter{
+    text-align: center;
+}
+.marginFifty{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.colorWite{
+    color:white;
+}
+a{
+    color: white;
+}
+.mainColor{
+    background-color: #353535;
+}
