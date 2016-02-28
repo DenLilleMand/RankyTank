@@ -2,84 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d34410cb-3fad-4a13-96bd-1e207cbd1db5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/MOCKUP1_front.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/MOCKUP2_select_players.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/MOCKUP3_search_player.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/MOCKUP4_match.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/MOCKUP4_match_bonus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/MOCKUP5_match_finished.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/MOCKUP6_ranking.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/MOCKUP_SCREENS4_select_players.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/fonts/bootstrap/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/fonts/bootstrap/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/icons/icon_player.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/icons/icon_player_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/icons/icon_players.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/icons/logo_trans.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/icons/logo_white.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/icons/players/matti.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/icons/nip_player.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/icons/noglebrik.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/icons/rankytank.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/icons/skitser.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/martin/Field.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/martin/Frontpage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/martin/matti/RankyTank.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/sass/_body.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/sass/_front.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/sass/_playersBox.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/icons/_selectplayers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/sass/_selectplayers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/sass/_selectplayersoverwrite.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/approuter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/store/configurestore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/martin/cssOverwrite.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/martin/MATTI SUCKS/cssOverwrite.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/martin/matti/cssRankingOverWrite.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/denlillemand.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/field.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/field/field.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/actions/fieldactions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/field/fieldmiddletable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/field/fieldtable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/footer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/front.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/fonts/bootstrap/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/fonts/bootstrap/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/fonts/bootstrap/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/martin/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/sass/main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/selectplayers/middletable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/martin/pickPlay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/martin/MATTI SUCKS/pickPlay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/selectplayers/player.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/martin/selectPlayers/playerBox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/actions/playeractions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/store/reducers/playerreducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/store/reducers/playersdata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/profile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/martin/selectPlayers/profileBox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rankytank_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/store/reducers/rootreducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/selectplayers/selectplayers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/actions/selectplayersactions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/store/reducers/selectplayersreducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/selectplayers/teamtable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/store/reducers/userreducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="rankytank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -101,11 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="field.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="field.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/components/field/field.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.72602737">
+            <state vertical-scroll-proportion="0.0">
               <caret line="110" column="46" selection-start-line="110" selection-start-column="46" selection-end-line="110" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -191,16 +124,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fieldtable.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/components/field/fieldtable.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -216,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/.babelrc" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/app/components/footer.js" />
@@ -267,6 +189,7 @@
         <option value="$PROJECT_DIR$/app/components/field/fieldmiddletable.js" />
         <option value="$PROJECT_DIR$/app/store/reducers/selectplayersreducer.js" />
         <option value="$PROJECT_DIR$/app/components/field/field.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -343,140 +266,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="rankytank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rankytank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rankytank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rankytank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rankytank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="store" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rankytank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rankytank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="store" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reducers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rankytank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rankytank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rankytank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rankytank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selectplayers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rankytank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rankytank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="field" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rankytank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rankytank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="actions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -566,8 +355,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="24" width="1851" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="69" y="24" width="1851" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26537398" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -576,7 +365,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.284375" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.284375" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -627,11 +416,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/styles/icons/icon_players.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/styles/icons/icon_player_add.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -978,8 +762,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/components/field/field.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72602737">
+        <state vertical-scroll-proportion="0.0">
           <caret line="110" column="46" selection-start-line="110" selection-start-column="46" selection-end-line="110" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
           <folding />
         </state>
       </provider>
