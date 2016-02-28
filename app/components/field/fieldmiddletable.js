@@ -12,10 +12,7 @@ export default class FieldMiddleTable extends React.Component {
         let rightTeam = this.props.rightTeam;
         console.log(leftTeam.get(KEEPER));
         console.log(leftTeam.get(ATTACKER));
-        console.log(leftTeam.get(KEEPER).goals);
-        console.log(leftTeam.get(ATTACKER).goals);
-        console.log(rightTeam.get(KEEPER).goals);
-        console.log(rightTeam.get(ATTACKER).goals);
+
 
         return(
             <div className="inlineBlock middleDiv teammiddleDiv" style={{textAlign: "center", marginTop:"120px"}}>

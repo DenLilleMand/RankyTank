@@ -107,8 +107,7 @@ class Field extends React.Component {
 function selectState(state) {
     return {
         leftTeam: state.selectPlayers[LEFT_TEAM],
-        rightTeam: state.selectPlayers[RIGHT_TEAM],
-        herpderp: state.selectPlayers.herpderp
+        rightTeam: state.selectPlayers[RIGHT_TEAM]
     }
 }
 

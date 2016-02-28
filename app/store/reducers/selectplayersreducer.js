@@ -9,7 +9,6 @@ export const RANDOM_PLAY = 'RANDOM_PLAY';
 export const GOAL = 'GOAL';
 
 const initialState = {
-    herpderp: "okay",
     [RIGHT_TEAM]: new Immutable.Map(),
     [LEFT_TEAM]: new Immutable.Map()
 };
@@ -56,11 +55,9 @@ export function selectPlayers(state = initialState, action = {}) {
             data = action.data;
             return Object.assign({}, state, {
                 [data.teamId]: state[data.teamId].update(data.position,function(player) {
-                    debugger;
                     player.goals = player.goals + 1;
                     return player;
-                }),
-                herpderp: "okay"
+                })
             });
             break;
         case FAIR_PLAY:
