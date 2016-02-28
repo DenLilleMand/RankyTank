@@ -35,7 +35,7 @@ class Field extends React.Component {
                                 </div>
                             </div>
                         </div>
-                        <FieldMiddleTable leftTeam={this.props.leftTeam} rightTeam={this.props.rightTeam}/>
+                        <FieldMiddleTable leftTeam={this.props.leftTeamArray} rightTeam={this.props.rightTeamArray}/>
                         <div className="inlineBlock floatRight teamDiv">
                             <div className="textAlignCenter">
                                 <h1 className="h1FrontPage">Team 2</h1>
@@ -106,6 +106,8 @@ class Field extends React.Component {
 
 function selectState(state) {
     return {
+        leftTeamArray: state.selectPlayers[LEFT_TEAM].toArray(),
+        rightTeamArray: state.selectPlayers[RIGHT_TEAM].toArray(),
         leftTeam: state.selectPlayers[LEFT_TEAM],
         rightTeam: state.selectPlayers[RIGHT_TEAM]
     }

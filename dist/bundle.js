@@ -38580,7 +38580,7 @@
 	                            )
 	                        )
 	                    ),
-	                    _react2.default.createElement(_fieldmiddletable2.default, { leftTeam: this.props.leftTeam, rightTeam: this.props.rightTeam }),
+	                    _react2.default.createElement(_fieldmiddletable2.default, { leftTeam: this.props.leftTeamArray, rightTeam: this.props.rightTeamArray }),
 	                    _react2.default.createElement(
 	                        'div',
 	                        { className: 'inlineBlock floatRight teamDiv' },
@@ -38662,6 +38662,8 @@
 
 	function selectState(state) {
 	    return {
+	        leftTeamArray: state.selectPlayers[_selectplayersreducer.LEFT_TEAM].toArray(),
+	        rightTeamArray: state.selectPlayers[_selectplayersreducer.RIGHT_TEAM].toArray(),
 	        leftTeam: state.selectPlayers[_selectplayersreducer.LEFT_TEAM],
 	        rightTeam: state.selectPlayers[_selectplayersreducer.RIGHT_TEAM]
 	    };
@@ -38870,10 +38872,16 @@
 	        value: function render() {
 	            var leftTeam = this.props.leftTeam;
 	            var rightTeam = this.props.rightTeam;
-	            console.log(leftTeam.get(_selectplayersreducer.KEEPER));
-	            console.log(leftTeam.get(_selectplayersreducer.ATTACKER));
-	            console.log(rightTeam.get(_selectplayersreducer.KEEPER));
-	            console.log(rightTeam.get(_selectplayersreducer.ATTACKER));
+	            console.log(leftTeam);
+	            console.log(rightTeam);
+	            var leftTeamScore = 0;
+	            var rightTeamScore = 0;
+	            leftTeam.forEach(function (person) {
+	                leftTeamScore += person.goals;
+	            });
+	            rightTeam.forEach(function (person) {
+	                rightTeamScore += person.goals;
+	            });
 
 	            return _react2.default.createElement(
 	                'div',
@@ -38887,7 +38895,7 @@
 	                        _react2.default.createElement(
 	                            'p',
 	                            { style: { display: "inline-block", fontSize: "50px" }, id: 'scoreTeam1' },
-	                            leftTeam.get(_selectplayersreducer.KEEPER).goals + leftTeam.get(_selectplayersreducer.ATTACKER).goals
+	                            leftTeamScore
 	                        ),
 	                        _react2.default.createElement(
 	                            'p',
@@ -38897,7 +38905,7 @@
 	                        _react2.default.createElement(
 	                            'p',
 	                            { style: { display: "inline-block", fontSize: "50px" }, id: 'scoreTeam2' },
-	                            rightTeam.get(_selectplayersreducer.KEEPER).goals + rightTeam.get(_selectplayersreducer.ATTACKER).goals
+	                            rightTeamScore
 	                        )
 	                    ),
 	                    _react2.default.createElement(
