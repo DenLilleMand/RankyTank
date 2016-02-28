@@ -12,6 +12,8 @@ export default class FieldMiddleTable extends React.Component {
         let rightTeam = this.props.rightTeam;
         console.log(leftTeam.get(KEEPER));
         console.log(leftTeam.get(ATTACKER));
+        console.log(rightTeam.get(KEEPER));
+        console.log(rightTeam.get(ATTACKER));
 
 
         return(
